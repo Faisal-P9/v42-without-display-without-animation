@@ -16,7 +16,6 @@ body {
   color: #000000;
   box-sizing: border-box;
   overflow-x: hidden;
-  overflow-y: scroll;
   scroll-behavior: smooth; }
   @media (min-width: 250.0625em) {
     body {
